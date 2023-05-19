@@ -1,0 +1,77 @@
+# Dependencies
+/node_modules
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android build artifacts
+android/.gradle
+android/build
+android/app/build
+android/**/*.aab
+android/**/*.apk
+
+# iOS build artifacts
+ios/build
+ios/DerivedData
+ios/*.app
+ios/*.dSYM
+ios/*.ipa
+
+# Expo build artifacts
+.web-build
+.ios-build
+.android-build
+
+# IDE and editor files
+.idea
+*.swp
+*.swo
+*.bak
+*.bak.*
+*.sublime*
+*.iml
+*.iml.*
+*.log
+.DS_Store
+.vscode/
+npm-debug.log*
+
+# OS files
+*.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.tmp.*
+*.bak
+*.bak.*
+*.swp
+*.swo
+
+# Test logs
+/coverage
+
+# yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# dotenv environment variables file
+.env
+.env.production
+.env.local
+.env.development
+.env.test
+.env.staging
+
+# Others
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

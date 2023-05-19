@@ -2,6 +2,18 @@
   "recommendations": [
     "nrwl.angular-console",
     "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "firsttris.vscode-jest-runner",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "eg2.vscode-npm-script",
+    "msjsdiag.debugger-for-chrome",
+    "msjsdiag.vscode-react-native",
+    "nrwl.angular-console",
+    "kumar-harsh.graphql-for-vscode",
+    "ms-azuretools.vscode-docker",
+    "coenraads.bracket-pair-colorizer",
+    "formulahendry.auto-close-tag",
+    "eamodio.gitlens"
   ]
 }
